@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "-XrSRC3y3",
+      "uuid": "c70ad099-c88e-4949-b62d-ae3e9e115296",
+      "firstName": "Yasir",
+      "lastName": "Bajwa",
+      "username": "YaxirBajwa",
+      "password": "$2a$10$y8kjaXpUCrRDXuDlbQJ5LeyQk8pyhBrG9/a9SRuCCU1I2gjZAxm2G",
+      "balance": 0,
+      "createdAt": "2022-09-01T05:07:06.793Z",
+      "modifiedAt": "2022-09-01T05:07:06.793Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "AasxCcKFY",
+      "uuid": "069abfc9-b804-49cf-af58-325960298811",
+      "userId": "-XrSRC3y3",
+      "bankName": "Meezan Bank",
+      "accountNumber": "123456789",
+      "routingNumber": "456314568",
+      "isDeleted": false,
+      "createdAt": "2022-09-01T05:07:45.095Z",
+      "modifiedAt": "2022-09-01T05:07:45.095Z"
     }
   ],
   "transactions": [
